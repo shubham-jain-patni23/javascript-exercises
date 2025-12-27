@@ -17,3 +17,4 @@ describe('joinStrings-example', () => {
     expect(values.greeting).toEqual('Hello! My name is Carlos Stevenson and I am 18 years old.');
   });
 });
+ 
